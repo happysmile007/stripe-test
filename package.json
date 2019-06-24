@@ -1,0 +1,15 @@
+{
+  "name": "stripe-node-example",
+  "version": "1.0.0",
+  "description": "A Stripe demp",
+  "main": "index.js",
+  "scripts": {
+    "node": "node create_price.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "stripe": "^14.23.0"
+  }
+}
